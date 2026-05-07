@@ -1,0 +1,22 @@
+BOB KUMAR
+Email: bob.kumar@email.com | Phone: +91-9812345678
+GitHub: github.com/bobkumar
+
+OBJECTIVE
+Fresh graduate with foundational knowledge of Python and basic data concepts.
+Looking for entry-level opportunity in software development.
+
+EDUCATION
+B.Sc. in Information Technology | DEF College | 2023 | Percentage: 62%
+
+SKILLS
+- Python (basic), HTML, CSS, JavaScript
+- MS Office, Excel (basic)
+- Communication, Teamwork
+
+PROJECTS
+1. Student Management System – Python console app using file handling
+2. Personal Portfolio Website – HTML/CSS static website
+
+CERTIFICATIONS
+- Python Basics – Udemy (2023)

@@ -1,0 +1,18 @@
+Python
+Pandas
+NumPy
+SQL
+Machine Learning
+Data Analysis
+Data Visualization
+Scikit-learn
+Matplotlib
+Seaborn
+TensorFlow
+Excel
+Power BI
+Statistics
+Communication
+Problem Solving
+Git
+GitHub

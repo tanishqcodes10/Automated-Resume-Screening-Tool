@@ -1,0 +1,37 @@
+CAROL PATEL
+Email: carol.patel@email.com | Phone: +91-9988776655
+LinkedIn: linkedin.com/in/carolpatel | GitHub: github.com/carolpatel
+
+OBJECTIVE
+Experienced Python Developer and Data Scientist with 3+ years of experience building
+ML pipelines and analytics solutions for enterprise clients.
+
+EDUCATION
+M.Sc. Data Science | PQR University | 2021 | CGPA: 9.0/10
+
+SKILLS
+Core: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras
+Data: Machine Learning, Deep Learning, Data Analysis, Data Visualization, Statistics
+Tools: SQL, Git, GitHub, Docker, Airflow, Power BI, Tableau, Excel, Matplotlib, Seaborn
+Soft Skills: Communication, Problem Solving, Leadership, Collaboration
+
+EXPERIENCE
+Data Scientist | MNO Tech Solutions | Aug 2021 – Present (3 years)
+- Designed end-to-end ML pipelines reducing model deployment time by 40%
+- Built NLP models for sentiment analysis with 93% accuracy
+- Led a team of 3 analysts in building real-time analytics dashboards using Power BI
+- Automated ETL workflows using Python and Airflow
+
+Data Analyst Intern | RST Analytics | Jan 2021 – Jun 2021
+- Performed exploratory data analysis on customer behavior datasets
+- Created reports using Excel and Python for business intelligence team
+
+PROJECTS
+1. Fraud Detection System – XGBoost and Random Forest ensemble (96% recall)
+2. NLP Resume Screener – TF-IDF + Cosine Similarity-based matching system
+3. Time Series Forecasting – Prophet and LSTM models for stock prediction
+
+CERTIFICATIONS
+- AWS Certified Machine Learning – Specialty
+- TensorFlow Developer Certificate
+- Microsoft Power BI Data Analyst

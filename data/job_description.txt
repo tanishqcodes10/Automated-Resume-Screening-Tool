@@ -1,0 +1,19 @@
+Job Title: Data Analyst / Python Developer
+
+We are looking for a skilled Data Analyst and Python Developer with hands-on experience
+in data analysis, machine learning, and automation.
+
+Required Skills:
+Python, Pandas, NumPy, SQL, Machine Learning, Data Analysis, Data Visualization,
+Scikit-learn, Matplotlib, Seaborn, TensorFlow, Excel, Power BI, Statistics,
+Communication, Problem Solving, Git, GitHub
+
+Required Experience: 1-3 years
+Required Education: Bachelor's degree in Computer Science, Data Science, or related field
+
+Responsibilities:
+- Analyze large datasets and derive actionable insights
+- Build predictive models using machine learning algorithms
+- Create dashboards and visualizations for stakeholders
+- Write clean, modular Python code
+- Collaborate with cross-functional teams

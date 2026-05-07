@@ -1,0 +1,32 @@
+EVA MEHTA
+Email: eva.mehta@email.com | Phone: +91-9123456789
+LinkedIn: linkedin.com/in/evamehta | GitHub: github.com/evamehta
+
+OBJECTIVE
+Python Developer with 1.5 years of experience in automation, data analysis, and web development.
+Proficient in building scalable Python solutions with a strong foundation in statistics and ML.
+
+EDUCATION
+B.Tech in Electronics & Communication | LMN Institute | 2022 | CGPA: 7.8/10
+
+SKILLS
+Technical: Python, Pandas, NumPy, SQL, Git, GitHub, Matplotlib, Seaborn, Excel
+ML/AI: Scikit-learn, Machine Learning, Data Analysis, Statistics, Data Visualization
+Web: Flask, HTML, CSS, JavaScript
+Soft Skills: Communication, Problem Solving, Adaptability
+
+EXPERIENCE
+Python Developer | UVW Software | Jan 2023 – Present (1.5 years)
+- Automated data extraction and transformation pipelines saving 15 hours/week
+- Built REST APIs using Flask for internal reporting tools
+- Performed data analysis on customer feedback datasets using Pandas
+- Used SQL for database queries and report generation
+
+PROJECTS
+1. Automated Resume Screener – Python-based NLP tool using TF-IDF and Cosine Similarity
+2. Climate Trend Analyzer – Pandas/Matplotlib for temperature trend analysis
+3. Student Grade Predictor – Logistic Regression model with Scikit-learn
+
+CERTIFICATIONS
+- Data Science Bootcamp – Udemy
+- SQL for Data Analysis – Coursera

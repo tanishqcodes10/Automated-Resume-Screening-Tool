@@ -1,0 +1,31 @@
+ALICE SHARMA
+Email: alice.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/alicesharma | GitHub: github.com/alicesharma
+
+OBJECTIVE
+Motivated Data Analyst with 2 years of experience in Python, Machine Learning, and Data Visualization.
+Seeking a role to leverage analytical skills and contribute to data-driven decisions.
+
+EDUCATION
+B.Tech in Computer Science Engineering | ABC University | 2022 | CGPA: 8.5/10
+
+SKILLS
+Technical: Python, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, SQL, Git, GitHub
+Data: Machine Learning, Data Analysis, Data Visualization, Statistics, Excel, Power BI
+Soft Skills: Communication, Problem Solving, Teamwork, Critical Thinking
+
+EXPERIENCE
+Data Analyst Intern | XYZ Analytics Pvt. Ltd. | June 2022 – Dec 2022
+- Analyzed sales datasets using Python and Pandas, improving reporting efficiency by 30%
+- Built a customer churn prediction model with 88% accuracy using Scikit-learn
+- Created interactive dashboards using Power BI for business stakeholders
+- Wrote SQL queries for data extraction from MySQL databases
+
+PROJECTS
+1. Retail Sales Forecasting – Used ARIMA and LSTM for time-series forecasting with Pandas/NumPy
+2. Employee Performance Predictor – Random Forest model achieving 91% accuracy
+3. Data Visualization Dashboard – Streamlit dashboard with Matplotlib and Seaborn charts
+
+CERTIFICATIONS
+- Google Data Analytics Certificate
+- Python for Data Science – Coursera
